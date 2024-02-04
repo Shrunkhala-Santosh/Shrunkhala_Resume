@@ -1,8 +1,8 @@
 # Shrunkhala Resume
 
-##Education
+## Education
 12th passed graduate
 
-##Skill
+## Skill
 Flutter,java, Autocad, etc
 
